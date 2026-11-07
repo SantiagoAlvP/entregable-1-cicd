@@ -27,3 +27,7 @@ Un secreto se maneja en github como una variable de entorno encriptada que nos p
 Es una herramienta increíble, que nos permite ahorrarnos mucho tiempo y dolores de cabeza. Lo usaría para automatizar despliegues, para hacer pruebas de test y de seguridad. Todo esto lo automatizaría porque hay cosas que una máquina hace mucho más rápido y de manera precisa, nunca dejando de lado la supervisión humana.
 
 En mi campo de ciberseguridad, me abre la mirada a más tecnologías y contextos importantes en donde la seguridad se vuelve algo fundamental, por ejemplo, usar buenas prácticas a la hora de crear el workflow.
+
+## Enlace a ejecución exitosa del Workflow
+
+https://github.com/SantiagoAlvP/entregable-1-cicd/actions/runs/42384487636
